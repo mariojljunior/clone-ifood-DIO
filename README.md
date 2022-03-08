@@ -5,6 +5,8 @@
 
 <p align="center">
     Aplicativo criado no curso de react native da digital innovation one
+</p>
 
-    Utilizando React Native
+<p>
+    Utilizando React Native.
 </p>
